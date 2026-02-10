@@ -19,9 +19,7 @@ I created this repo to stay accountable, track my progress, and build a strong f
 ## 📂 Repository Structure
 The repository is organized in a topic-wise manner:
 
-- **Basics & Setup** – Python syntax, variables, input/output  
-- **Control Flow** – Conditionals and loops  
-- **Functions** – Functions, recursion, lambda expressions  
+- **Basics & Setup** – Python syntax, variables, input/output, Conditionals and loops, Functions, recursion, lambda expressions  
 - **Data Structures** – Lists, tuples, sets, dictionaries  
 - **OOP** – Classes, objects, inheritance, polymorphism  
 - **Libraries** – Practice with common Python libraries  
